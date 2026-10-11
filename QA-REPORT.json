@@ -1,0 +1,16 @@
+{
+  "pages": 16,
+  "indexable_pages": 15,
+  "source_checks_passed": true,
+  "issues": [],
+  "javascript_syntax": {
+    "3d.js": true,
+    "site.js": true
+  },
+  "limits": [
+    "No rendered browser / WebGL execution test",
+    "No real-device performance measurement",
+    "No hosting deployment",
+    "No Google indexing verification"
+  ]
+}
